@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+“What if Chai Sutta Bar’s digital experience felt as addictive as sitting at the outlet?”
 
-## Project info
+A few days ago, I shared a thought experiment.
+Today, I’m sharing the visuals.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+When you walk into a Chai Sutta Bar outlet, you don’t just buy chai.
+You experience energy, chaos, conversations, music, colors — vibes.
 
-## How can I edit this code?
+But when I visited their digital experience, I paused and asked myself:
 
-There are several ways of editing your application.
+👉 Does the website make you feel the same way the outlet does?
 
-**Use Lovable**
+That question became the starting point of this concept.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+What I explored
 
-Changes made via Lovable will be committed automatically to this repo.
+I reimagined CSB’s digital presence by keeping one rule sacred:
+Don’t change the brand. Amplify it.
 
-**Use your preferred IDE**
+So instead of redesigning for the sake of aesthetics, I focused on:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Translating the street energy into motion & interactions
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Making the experience feel youthful, bold, and alive
 
-Follow these steps:
+Keeping navigation simple, but emotionally engaging
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Blending loyalty concepts, brand storytelling, and discovery seamlessly
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+What you’ll see in the visuals
 
-# Step 3: Install the necessary dependencies.
-npm i
+☕ Motion inspired by steam, pours, and movement
+🎵 Bold typography & color usage rooted in CSB’s identity
+🧠 A clearer journey from “first visit” → “brand connection”
+📱 A layout that feels fast, social, and culture-driven
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+This isn’t a critique.
+It’s a what-if.
 
-**Edit a file directly in GitHub**
+What if brands thought of their website the same way they think of their outlets?
+What if digital was treated as an experience, not just information?
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+That’s what this case study is about.
 
-**Use GitHub Codespaces**
+Would love to hear your thoughts — especially from people who believe
+design isn’t decoration, it’s translation.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+#ProductDesign #CaseStudy #UXUI #BrandExperience #ChaiSuttaBar #DesignThinking #IndianStartups
